@@ -56,15 +56,12 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘バージニティハンター˘�
 global.wm3 = '⫹⫺ 𝚂𝚊𝚗𝚣 ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ'
 global.md = '𝚂𝚊𝚗𝚣 ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ‌'
 //-----[OWNER]
-global.nomorown = '6281212083401'
-global.owner = [
-['6281212083401'], // global owner 0
-['6289652537228'], // global owner 1
-['6281212083401'], // global owner 2
-['6281212083401', 'Asep XD', true] // global owner 3
+global.nomorown = '6287715768324'
+global.owner = [ // global owner 2
+['6287715768324', 'Alfa', true] // global owner 3
 ]
 global.mods = [] // Want some help?
-global.prems = ['6281212083401','6281386353718'] // Premium user has unlimited limit
+global.prems = ['6287715768324'] // Premium user has unlimited limit
 
 // =================={[(API KEYS)]}==================
 global.mupar = 'OnLasdan'
@@ -121,7 +118,7 @@ global.dtu = 'ᴅᴏɴᴀᴛᴇ'
 global.urlnya = "https://pnggilajacn.my.id/contacts"
 //========== callButtons ==========//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 812-1208-3401'
+global.phn = '+62 877-1576-8324'
 global.ephemeral = '86400' // 86400 = 24jam, kalo ingin di hilangkan ganti '86400' jadi 'null' atau ''
 global.monitor = "u1931038-1f70a77eef5964be82e7d606" // Ambil di https://uptimerobot.com
 global.multiplier = 69 // The higher, The harder levelup
